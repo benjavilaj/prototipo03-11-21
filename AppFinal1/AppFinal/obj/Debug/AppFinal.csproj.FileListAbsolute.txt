@@ -1,0 +1,22 @@
+C:\Users\Usuario\source\repos\AppFinal\AppFinal\bin\Debug\AppFinal.exe.config
+C:\Users\Usuario\source\repos\AppFinal\AppFinal\bin\Debug\AppFinal.exe
+C:\Users\Usuario\source\repos\AppFinal\AppFinal\bin\Debug\AppFinal.pdb
+C:\Users\Usuario\source\repos\AppFinal\AppFinal\obj\Debug\AppFinal.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\AppFinal\AppFinal\obj\Debug\AppFinal.Registro.resources
+C:\Users\Usuario\source\repos\AppFinal\AppFinal\obj\Debug\AppFinal.Properties.Resources.resources
+C:\Users\Usuario\source\repos\AppFinal\AppFinal\obj\Debug\AppFinal.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\AppFinal\AppFinal\obj\Debug\AppFinal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AppFinal\AppFinal\obj\Debug\AppFinal.exe
+C:\Users\Usuario\source\repos\AppFinal\AppFinal\obj\Debug\AppFinal.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Cosas realizadas benja\proyectos\AppFinal1\AppFinal\bin\Debug\AppFinal.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Cosas realizadas benja\proyectos\AppFinal1\AppFinal\bin\Debug\AppFinal.exe
+C:\Users\Usuario\OneDrive\Escritorio\Cosas realizadas benja\proyectos\AppFinal1\AppFinal\bin\Debug\AppFinal.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Cosas realizadas benja\proyectos\AppFinal1\AppFinal\obj\Debug\AppFinal.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Cosas realizadas benja\proyectos\AppFinal1\AppFinal\obj\Debug\AppFinal.Registro.resources
+C:\Users\Usuario\OneDrive\Escritorio\Cosas realizadas benja\proyectos\AppFinal1\AppFinal\obj\Debug\AppFinal.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Cosas realizadas benja\proyectos\AppFinal1\AppFinal\obj\Debug\AppFinal.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Cosas realizadas benja\proyectos\AppFinal1\AppFinal\obj\Debug\AppFinal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Cosas realizadas benja\proyectos\AppFinal1\AppFinal\obj\Debug\AppFinal.exe
+C:\Users\Usuario\OneDrive\Escritorio\Cosas realizadas benja\proyectos\AppFinal1\AppFinal\obj\Debug\AppFinal.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Cosas realizadas benja\proyectos\AppFinal1\AppFinal\obj\Debug\AppFinal.Login.resources
+C:\Users\Usuario\OneDrive\Escritorio\Cosas realizadas benja\proyectos\AppFinal1\AppFinal\obj\Debug\AppFinal.Agregar_Datos.resources
